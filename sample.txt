@@ -1,0 +1,32 @@
+
+name: ZHANG Hao
+residence status: permanent resident
+residence address: Singapore
+
+phone number: +6591234567
+email: myemail@test.com
+
+hobbies: cycling, badminton
+
+work experience
+- company: Company A
+- position: Senior Engineer
+- period: 01/2021-12/2021
+- tech stack: Java, Spring Boot, Redis, Kafka, Node.js, Nestjs, Axios, Typeorm, Golang
+
+work experience
+- company: Company B
+- position: Lead Engineer
+- period: 01/2023-Present
+- tech stack: Node.js, Typescript, Nestjs, Prisma, gRPC, Postgres, Golang, chi, pgx, CockroachDB, Redis, Nats, Temporal, OpenTelemetry, Open container, Python, Scikit-learn
+
+
+education experience
+- university: University A
+- degree: Bachelor of Science
+- period: 2000-2004
+
+education experience
+- university: University B
+- degree: Master of Science
+- period: 2006-2009
